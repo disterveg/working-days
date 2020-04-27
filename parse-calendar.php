@@ -139,7 +139,7 @@ class WorkingDays
 
 
 $workingDays = (new WorkingDays)->getWorkingDays('17.04.2020', 5);
-new dBug($workingDays);
+var_dump($workingDays);
 
 
 
