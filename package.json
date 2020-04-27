@@ -1,0 +1,17 @@
+{
+  "name": "working-days",
+  "version": "1.0.0",
+  "description": "get working days from start`s date and in a specified number",
+  "repository": {
+    "type": "git",
+    "url": "my git"
+  },
+  "keywords": [
+    "php",
+    "phpQuery",
+    "parse",
+    "working-days"
+  ],
+  "author": "disterveg",
+  "license": "ISC"
+}
