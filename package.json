@@ -4,7 +4,7 @@
   "description": "get working days from start`s date and in a specified number",
   "repository": {
     "type": "git",
-    "url": "my git"
+    "url": "https://github.com/disterveg/working-days.git"
   },
   "keywords": [
     "php",
